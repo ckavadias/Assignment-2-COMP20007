@@ -1,0 +1,97 @@
+
+5
+30
+25
+20
+16
+63
+S
+SS
+SSS
+SSSS
+SSSSS
+Collision resolution: Chaining List
+size: 83
+  0: invocator
+  1: catasarka
+  2:
+  3:
+  4: effemination
+  5: endocrinal
+  6:
+  7:
+  8:
+  9: overborrow
+ 10:
+ 11:
+ 12:
+ 13: bulleted dissipate
+ 14:
+ 15:
+ 16: kurchicine
+ 17: pilfering
+ 18:
+ 19:
+ 20: hemosporid
+ 21:
+ 22:
+ 23:
+ 24: foreplace emotionalism
+ 25: recordant
+ 26:
+ 27: Gazania
+ 28:
+ 29: manage
+ 30:
+ 31: lyncher
+ 32: lazuli
+ 33: tinnily
+ 34:
+ 35:
+ 36: dissonant
+ 37:
+ 38: somebody
+ 39:
+ 40: noncorrosive vendibleness
+ 41:
+ 42:
+ 43: grits
+ 44:
+ 45: peritoneocentesis
+ 46:
+ 47:
+ 48:
+ 49:
+ 50:
+ 51: Malay
+ 52:
+ 53:
+ 54:
+ 55:
+ 56: unaspiringly
+ 57:
+ 58: resmell
+ 59: deuteranopia
+ 60: tubbie
+ 61: interim micromanipulator
+ 62: pilocarpine
+ 63:
+ 64:
+ 65:
+ 66:
+ 67:
+ 68:
+ 69: abrook answerability
+ 70:
+ 71:
+ 72: bimotored
+ 73:
+ 74:
+ 75: uprighting daftly
+ 76: nonblameless
+ 77: taxemic
+ 78:
+ 79: asthenosphere
+ 80:
+ 81:
+ 82:

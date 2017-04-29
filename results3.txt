@@ -1,0 +1,42 @@
+
+2
+2
+25
+>
+]
+|
+|>
+|]
+Collision resolution: Chaining List
+size: 31
+  0: hoggery diffidence
+  1:
+  2:
+  3:
+  4:
+  5:
+  6: raucousness
+  7: phizes
+  8: superhumanness
+  9: infantryman
+ 10:
+ 11: absorbedly
+ 12: notwithstanding
+ 13:
+ 14:
+ 15: nondeliberation
+ 16:
+ 17:
+ 18:
+ 19: ponderosapine
+ 20:
+ 21: Tubiflorales
+ 22:
+ 23:
+ 24:
+ 25:
+ 26:
+ 27: splinterless
+ 28: Shrovetide delomorphous prostrator
+ 29:
+ 30:

@@ -1,0 +1,54 @@
+/*
+ * COMP20007 Design of Algorithms
+ * Semester 1 2016
+ *
+ * Clement Poh (cpoh@unimelb.edu.au)
+ *
+ * This module provides fundamental functionality used to
+ * interpret generic pointers into typed data.
+ *
+ Edited by Constantinos Kavadias, ckavadias@student.unimelb.edu.au
+ as per specifications for Assignment 2, COMP20007
+ STUDENT ID: 664790
+*/
+#include "types.h"
+
+#include <string.h>
+#include <stdlib.h>
+#include <assert.h>
+
+/* Returns whether n1 is equal to n2 */
+bool int_eq(long e1, long e2) {
+    return e1 == e2;
+}
+
+/* Prints n to file */
+void int_print(FILE *file, long e) {
+    fprintf(file, " %ld", e);
+}
+
+/* Returns whether str1 is equal to str2 */
+bool str_eq(char *str1, char *str2) {
+	if(!strcmp(str1, str2)){
+		return true;
+	}
+	return false;
+}
+
+/* Returns a copy of src */
+char *str_copy(char *src) {
+	char* copy = NULL;
+	/*note input will always be followed by new line, this new line is 
+	 redundant and so will not be copied*/
+	copy = (char*)malloc(sizeof(char)*(strlen(src) -1));
+	strncpy(copy, src, strlen(src)-1);
+	copy[strlen(src)-1] = '\0';
+	
+    return copy;
+}
+
+/* Prints str to file */
+void str_print(FILE *file, char *str) {
+	fprintf(file, " %s", str);
+}
+
